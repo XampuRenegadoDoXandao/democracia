@@ -1,10 +1,14 @@
 ## Trabalho sobre a Democracia
 
-![image](docs/img/IMG-20230313-WA0005.jpg)
-![image](docs/img/IMG-20230313-WA0009.jpg)
-![image](docs/img/IMG-20230313-WA0007.jpg)
-![image](docs/img/IMG-20230313-WA0004.jpg)
-![image](docs/img/IMG-20230313-WA0006.jpg)
-![image](docs/img/IMG-20230313-WA0008.jpg)
+![image](docs/img/1.png)
+![image](docs/img/2.png)
+![image](docs/img/3.png)
+![image](docs/img/4.png)
+![image](docs/img/5.png)
+![image](docs/img/6.png)
+![image](docs/img/7.png)
+![image](docs/img/8.png)
+![image](docs/img/9.png)
+![image](docs/img/10.png)
 
 ## Fim do README
